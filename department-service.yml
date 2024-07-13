@@ -31,4 +31,4 @@ management:
       exposure:
         include: "*"
 
-message: Hello update new version
+message: Hello department version 2
