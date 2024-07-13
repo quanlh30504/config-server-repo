@@ -14,11 +14,11 @@ spring:
         format-sql: true
         dialect: org.hibernate.dialect.MySQL8Dialect
     database: mysql
-    rabbitmq:
-      host: localhost
-      port: 5672
-      username: guest
-      password: guest
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
   bus:
     enabled: true
 eureka:
