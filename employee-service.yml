@@ -35,4 +35,4 @@ DEPARTMENT-SERVICE:
   ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.BestAvailableRule
 
-message: Hello employee.
+message: Hello employee version 2.
